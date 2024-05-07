@@ -1,0 +1,18 @@
+Nom: gg
+Prénom: gg
+GSM: 456
+Email: gg@gg.gg
+Adresse:
+  Rue: gg
+  Ville: gg
+  Pays: gg
+-------------------------------------------
+Nom: gg
+Prénom: gg
+GSM: 78
+Email: gg@gg.gg
+Adresse:
+  Rue: gg
+  Ville: gg
+  Pays: gg
+-------------------------------------------
